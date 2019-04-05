@@ -6,6 +6,12 @@ It's a personal logo design for myself. Just for sharing design idea.
 
 ![images/preview.png](./images/preview.png)
 
+## Design Concepts
+
+1. Based on the initial "A" of my ID.
+2. Simple, Precision, Regular.
+3. Raise the wave up.
+
 ## Design
 
 ![images/design.png](./images/design.png)
