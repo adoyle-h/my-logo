@@ -4,7 +4,7 @@ It's a personal logo design for myself. Just for sharing design idea.
 
 ## Preview
 
-![images/preview.png](./images/preview.png)
+![images/preview.svg](./images/preview.svg)
 
 ## Design Concepts
 

@@ -6,7 +6,7 @@
 
 ## 预览
 
-![images/preview.png](./images/preview.png)
+![images/preview.svg](./images/preview.svg)
 
 ## 设计理念
 
